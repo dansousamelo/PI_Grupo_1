@@ -1,6 +1,6 @@
 <br>
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img src="../assets/house.svg">
+    <img src="https://dansousamelo.github.io/PI_Grupo_1/assets/house.svg">
 </div>
 <br>
 <br>
@@ -15,12 +15,21 @@
         <th>Autor(es)</th>
     </thead>
     <tbody>
+    <tr>
+            <td>17/08/2021</td>
+            <td>1.0</td>
+            <td>Definindo Variáveis</td>
+            <td>
+                Jõao Paulo, João Vitor, João Marcelo, Jõao Marcus, Guilherme Mendes e Marina Costa
+            </td>
+        </tr>
+        <tr>
         <tr>
             <td>18/08/2021</td>
-            <td>1.0</td>
+            <td>1.1</td>
             <td>Criando arte para variáveis</td>
             <td>
-                Daniel de Sousa O. M. Veras [<a href="https://github.com/dansousamelo">@dansousamelo</a>] e Pedro Rodrigues [<a href="https://github.com/pedro-prp">@pedrp-prp</a>]
+                Daniel de Sousa e Pedro Rodrigues
             </td>
         </tr>
     </tbody>
@@ -32,7 +41,7 @@
 <p align="justify">As variáveis a serem considerados na telemetria estão apresentadas abaixo.</p>
 <br>
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img src="../assets/variaveis.png">
+    <img src="https://dansousamelo.github.io/PI_Grupo_1/assets/variaveis.png">
 </div>
 <br>
 
@@ -51,3 +60,5 @@
 ### 7. Visão computacional da etapa de passada
 
 ## Referências
+ * <p align="justify">Lançamento do Dardo. Disponível em: https://www.youtube.com/watch?v=rYoSU_5zbec .. Acesso em: 17 de Agosto de 2021.
+</p>
