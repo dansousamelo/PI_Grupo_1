@@ -1,4 +1,3 @@
-# Timeline-contratos
 ## Documentação:
 Para visualizar a documentação será necessário ter o npm instalado na sua maquina. Ele pode ser instalado com esse comando:
 
