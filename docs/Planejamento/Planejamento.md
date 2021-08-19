@@ -45,6 +45,7 @@ O grupo foi definido em 4 projetos principais:
 <ul>
   <li><b>Engenharia Eletrônica -</b> João Marcelo, João Vitor e Pablo Santos </li>
   <li><b>Engenharia Aerospacial -</b> João Paulo</li>
+  <li><b>Engenharia de Energia -</b> Marina Costa, Amanda Almeida e João Marcus</li>
 </ul>
 
 ### Projeto Computacional
@@ -54,4 +55,6 @@ O grupo foi definido em 4 projetos principais:
 </ul>
 
 ### Interface
-Todo contribuirão um pouco.
+<ul>
+  <li><b>Engenharia de Software -</b> Daniel de Sousa, Pedro Rodrigues, Guilherme Mendes, Caio Fernandes, Eduardo Ribeiro, Eduardo Vieira, Luís Henrique e Samuel de Souza</li>
+</ul>
