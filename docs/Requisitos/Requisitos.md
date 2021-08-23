@@ -54,6 +54,22 @@
   <li>O sistema deve conter mecanismos eletrônicos que possuam bateria(s) para durar o tempo estimado de um treino de lançamento de dardo.</li>
 </ul>
 
+## Persona
+
+<p align="justify">Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico (Cooper et al., 2007; Pruitt e Adlin,2006; Cooper, 1999). É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário. Em geral, começamos com uma aproximação razoável e convergimos numa população plausível de personas.</p>
+
+<br>
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://dansousamelo.github.io/PI_Grupo_1/assets/personaOne.png">
+</div>
+<br>
+
+### Requisitos Funcionais
+
+<ul>
+  <li>O atleta deve ser capaz de avaliar o seu desempenho sozinho, apenas com o auxilio do sistema.</li>
+</ul>
+
 ## Referência
 
  * <p align="justify">PRESSMAN, Roger S. Engenharia de Software uma abordagem profissional. 7ª edição. ed. [S. l.: s. n.], 2016.
@@ -62,5 +78,6 @@
  * <p>Javelin Throw – Rules. Disponível em: https://www.tutorialspoint.com/javelin_throw/javelin_throw_rules.htm .. Acesso em: 22 de Agosto de 2021.
 </p>
 
-## Persona
+ * <p>SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a . Edição, Editora Campus, 2010.
+</p>
 
